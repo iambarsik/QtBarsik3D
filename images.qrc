@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/button_off.png</file>
+        <file>images/button_on.png</file>
+        <file>images/font_big.png</file>
+        <file>images/font_medium.png</file>
+        <file>images/font_micro.png</file>
+        <file>images/font_small.png</file>
+        <file>images/logo.png</file>
+        <file>images/radar320.spr</file>
+        <file>images/tex.png</file>
+        <file>images/spyro_texture.png</file>
+        <file>images/ttt.png</file>
+        <file>images/tent.png</file>
+    </qresource>
+</RCC>

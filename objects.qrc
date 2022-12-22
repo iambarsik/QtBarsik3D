@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>obj/ship.obj</file>
+        <file>obj/teapot.obj</file>
+        <file>obj/axis.obj</file>
+        <file>obj/mountains.obj</file>
+        <file>obj/spyro.obj</file>
+    </qresource>
+</RCC>
